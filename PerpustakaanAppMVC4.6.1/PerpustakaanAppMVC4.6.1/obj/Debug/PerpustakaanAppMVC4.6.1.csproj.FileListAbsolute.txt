@@ -1,0 +1,44 @@
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csprojAssemblyReference.cache
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.Properties.Resources.resources
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmEntryMahasiswa.resources
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmMahasiswa.resources
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.GenerateResource.cache
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CoreCompileInputs.cache
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe.config
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.pdb
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.dll
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.xml
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CopyComplete
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.exe
+E:\22.61.0238\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.pdb
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe.config
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.pdb
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.dll
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.xml
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.AssemblyReference.cache
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.SuggestedBindingRedirects.cache
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.Properties.Resources.resources
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmEntryMahasiswa.resources
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmMahasiswa.resources
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.GenerateResource.cache
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CoreCompileInputs.cache
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CopyComplete
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\11-20231203T131025Z-001\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.pdb
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe.config
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.pdb
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.dll
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.xml
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.AssemblyReference.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.SuggestedBindingRedirects.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.Properties.Resources.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmEntryMahasiswa.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.View.FrmMahasiswa.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.GenerateResource.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CoreCompileInputs.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CopyComplete
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\11\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.pdb
